@@ -1,0 +1,28 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model files (optional - if you're not versioning models)
+*.safetensors
+*.bin
+*.h5
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs or temporary files
+*.log
+*.tmp
+
+# Ignore Hugging Face cache (optional)
+~/.cache/huggingface/
