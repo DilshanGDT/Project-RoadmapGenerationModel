@@ -1,2 +1,2 @@
 # Project-RoadmapGenerationModel
-Research purposes repo.
+The data, information and methods include in this repository is only for research purpose. Not for commercial use. 
