@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Private Jeep Safari at Minneriya National Park to Visit Elephants",
+    "image_links": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/c8/cb/5e/caption.jpg?w=500&h=400&s=1"
+    ],
+    "rating": "4.9",
+    "total_reviews": "222",
+    "recommendation": "Recommended by 98% of travelers",
+    "type": "4WD Tours",
+    "travel_duration": "3–4 hours",
+    "description": "Attention: According to the weather conditions, Minneriya National Park, and Kaudulla NP are the best these days. You can…",
+    "starting_price": "$35",
+    "extracted_features": {
+      "park_names": [
+        "Minneriya National Park"
+      ],
+      "primary_wildlife_focus": "Elephants",
+      "safari_type_detail": "Private Jeep Safari",
+      "suitability": "General",
+      "duration_category": "Full-Day",
+      "price_category": "Budget",
+      "key_attractions": [],
+      "flexibility_notes": "Weather-dependent aspects"
+    }
+  },
+  {
+    "title": "Udawalawe National Park | Private Safari Tour",
+    "image_links": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/24/45/64/caption.jpg?w=500&h=400&s=1"
+    ],
+    "rating": "5.0",
+    "total_reviews": "1,077",
+    "recommendation": "Recommended by 99% of travelers",
+    "type": "4WD Tours",
+    "travel_duration": "4 hours",
+    "description": "Udawalawe National Park is a destination to see elephants. Other animals in the park include leopards, jungle cats, monkeys…",
+    "starting_price": "$30",
+    "extracted_features": {
+      "park_names": [
+        "Udawalawe National Park"
+      ],
+      "primary_wildlife_focus": "Elephants",
+      "safari_type_detail": "Private Safari Tour",
+      "suitability": "General",
+      "duration_category": "Full-Day",
+      "price_category": "Budget",
+      "key_attractions": [
+        "Elephants",
+        "Leopards",
+        "Jungle Cats",
+        "Monkeys"
+      ],
+      "flexibility_notes": ""
+    }
+  },
+  {
+    "title": "Ella: Transfer to Tangalle/Mirissa/Galle & Yala/Udawalawe Safari",
+    "image_links": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/03/15/e8/caption.jpg?w=500&h=400&s=1"
+    ],
+    "rating": "4.7",
+    "total_reviews": "32",
+    "recommendation": "Recommended by 93% of travelers",
+    "type": "Private and Luxury",
+    "travel_duration": "8–10 hours",
+    "description": "After pick-up from your hotel in Ella, head for Udawalawe Or Yala National Park, where you'll switch to an open concept …",
+    "starting_price": "$40",
+    "extracted_features": {
+      "park_names": [
+        "Yala National Park",
+        "Udawalawe National Park"
+      ],
+      "primary_wildlife_focus": "General Wildlife",
+      "safari_type_detail": "Safari Transfer",
+      "suitability": "General",
+      "duration_category": "Full-Day",
+      "price_category": "Budget",
+      "key_attractions": [],
+      "flexibility_notes": null
+    }
+  }
+]

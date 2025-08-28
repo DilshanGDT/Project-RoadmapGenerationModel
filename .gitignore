@@ -29,3 +29,6 @@ Thumbs.db
 
 # Ignore Hugging Face cache (optional)
 ~/.cache/huggingface/
+
+# Ignore other gitignore files
+6. Front End/rm_nextjs/node_modules
